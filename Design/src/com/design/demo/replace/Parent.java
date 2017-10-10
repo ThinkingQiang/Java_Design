@@ -1,7 +1,7 @@
 package com.design.demo.replace;
 
 /**
- * ¸¸Àà
+ * çˆ¶ç±»
  * @author Toni
  */
 public class Parent {

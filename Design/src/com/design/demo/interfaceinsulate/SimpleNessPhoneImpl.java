@@ -1,7 +1,7 @@
 package com.design.demo.interfaceinsulate;
 
 /**
- * ÆÕÍ¨ÊÖ»úµÄ½Ó¿ÚÊµÏÖ
+ * æ™®é€šæ‰‹æœºçš„æ¥å£å®ç°
  * @author Toni
  */
 public class SimpleNessPhoneImpl implements SimplenessPhone{
@@ -9,19 +9,19 @@ public class SimpleNessPhoneImpl implements SimplenessPhone{
 	
 	@Override
 	public void snakeGame() {
-		System.out.println("ÆÕÍ¨ÊÖ»úÍæÌ°³ÔÉßÓÎÏ·");
+		System.out.println("æ™®é€šæ‰‹æœºç©è´ªåƒè›‡æ¸¸æˆ");
 		
 	}
 
 	@Override
 	public void sendInfo() {
-		System.out.println("·¢ËÍĞÅÏ¢");
+		System.out.println("å‘é€ä¿¡æ¯");
 		
 	}
 
 	@Override
 	public void call() {
-		System.out.println("´òµç»°");
+		System.out.println("æ‰“ç”µè¯");
 	}
 
 	

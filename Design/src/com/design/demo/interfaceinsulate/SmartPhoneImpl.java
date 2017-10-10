@@ -1,25 +1,25 @@
 package com.design.demo.interfaceinsulate;
 
 /**
- * ÖÇÄÜÊÖ»úµÄ½Ó¿ÚÊµÏÖ
+ * æ™ºèƒ½æ‰‹æœºçš„æ¥å£å®ç°
  * @author Toni
  */
 public class SmartPhoneImpl implements SmartPhone {
 
 	@Override
 	public void playGame() {
-		System.out.println("ÖÇÄÜÊÖ»úÍæÓÎÏ·");
+		System.out.println("æ™ºèƒ½æ‰‹æœºç©æ¸¸æˆ");
 	}
 
 
 	@Override
 	public void sendInfo() {
-		System.out.println("·¢ËÍĞÅÏ¢");
+		System.out.println("å‘é€ä¿¡æ¯");
 	}
 
 	@Override
 	public void call() {
-		System.out.println("´òµç»°");
+		System.out.println("æ‰“ç”µè¯");
 	}
 
 }

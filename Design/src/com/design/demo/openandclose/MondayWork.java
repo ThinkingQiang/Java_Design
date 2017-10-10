@@ -5,7 +5,7 @@ public class MondayWork implements WorkDay{
 	@Override
 	public void doWork() 
 	{
-		System.out.println("周一处理BUG");
+		System.out.println("鍛ㄤ竴澶勭悊BUG");
 	}
 
 }

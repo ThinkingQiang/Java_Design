@@ -1,7 +1,7 @@
 package com.design.demo.dependencyinversion;
 
 /**
- * ¶ÁÈ¡Àà
+ * è¯»å–ç±»
  * @author Toni
  */
 public interface Reader {

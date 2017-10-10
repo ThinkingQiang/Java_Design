@@ -1,7 +1,7 @@
 package com.design.demo.dependencyinversion;
 
 /**
- * ¼ÆËãÀà
+ * è®¡ç®—ç±»
  * @author Toni
  */
 public class Calculate {

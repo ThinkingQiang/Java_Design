@@ -1,7 +1,7 @@
 package com.design.demo.dmt;
 
 /**
- * DIY µçÄÔ»úÆ÷ÅäÖÃ
+ * DIY ç”µè„‘æœºå™¨é…ç½®
  * @author Toni
  */
 public class DiyComputer {
@@ -14,30 +14,30 @@ public class DiyComputer {
 	
 	public void  addNetWorkCard()
 	{
-		System.out.println("Ìí¼Ó"+module.getNetworkCard()+"ĞÍºÅ ÏÔ¿¨");
+		System.out.println("æ·»åŠ "+module.getNetworkCard()+"å‹å· æ˜¾å¡");
 	}
 	
 	public  void addCpu()
 	{
-		System.out.println("Ìí¼Ó"+module.getCpu()+"ĞÍºÅ CPU");
+		System.out.println("æ·»åŠ "+module.getCpu()+"å‹å· CPU");
 	}
 	
 	public void addDisplayCard()
 	{
-		System.out.println("Ìí¼Ó"+module.getDisplayCard()+"ĞÍºÅ ÏÔ¿¨");
+		System.out.println("æ·»åŠ "+module.getDisplayCard()+"å‹å· æ˜¾å¡");
 	}
 	
 	public void addProcessor()
 	{
-		System.out.println("Ìí¼Ó"+module.getProcessor()+"ĞÍºÅ ´¦ÀíÆ÷");
+		System.out.println("æ·»åŠ "+module.getProcessor()+"å‹å· å¤„ç†å™¨");
 	}
 	
 	public void printComputerInfo(){
-		System.out.println("¸ÃµçÄÔµÄÅäÖÃĞÅÏ¢ÈçÏÂ£º");
-		System.out.println("CPU£º"+module.getCpu());
-		System.out.println("DisplayCard£º"+module.getDisplayCard());
-		System.out.println("Processor£º"+module.getProcessor());
-		System.out.println("NetWorkCard£º"+module.getNetworkCard());
+		System.out.println("è¯¥ç”µè„‘çš„é…ç½®ä¿¡æ¯å¦‚ä¸‹ï¼š");
+		System.out.println("CPUï¼š"+module.getCpu());
+		System.out.println("DisplayCardï¼š"+module.getDisplayCard());
+		System.out.println("Processorï¼š"+module.getProcessor());
+		System.out.println("NetWorkCardï¼š"+module.getNetworkCard());
 	}
 	
 

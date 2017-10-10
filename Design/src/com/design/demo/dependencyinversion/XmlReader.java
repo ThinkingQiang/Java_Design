@@ -1,7 +1,7 @@
 package com.design.demo.dependencyinversion;
 
 /**
- * Xml¶ÁÈ¡Àà
+ * Xmlè¯»å–ç±»
  * @author Toni
  */
 public class XmlReader implements Reader {
@@ -11,7 +11,7 @@ public class XmlReader implements Reader {
 	
 	@Override
 	public void getNum(Object o) {
-		// Xml¶ÁÈ¡ÊµÏÖ
+		// Xmlè¯»å–å®ç°
 	}
 
 }

@@ -1,6 +1,6 @@
 package com.design.demo.interfaceinsulate;
 /**
- * 智能手机接口
+ * 鏅鸿兘鎵嬫満鎺ュ彛
  * @author Toni
  */
 public interface SmartPhone  extends Phone{

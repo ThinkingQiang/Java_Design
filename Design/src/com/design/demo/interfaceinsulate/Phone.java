@@ -1,7 +1,7 @@
 package com.design.demo.interfaceinsulate;
 
 /**
- * 手机接口
+ * 鎵嬫満鎺ュ彛
  * @author Toni
  *
  */

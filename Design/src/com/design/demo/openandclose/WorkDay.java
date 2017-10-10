@@ -1,9 +1,9 @@
 package com.design.demo.openandclose;
 
 /**
- * ¹¤×÷ÈÕ
+ * å·¥ä½œæ—¥
  * @author Toni
  */
 public interface WorkDay {
-	public void doWork();  //¹¤×÷·½·¨
+	public void doWork();  //å·¥ä½œæ–¹æ³•
 }

@@ -1,7 +1,7 @@
 package com.design.demo.dmt;
 
 /**
- * µçÄÔ×é¼şÀà
+ * ç”µè„‘ç»„ä»¶ç±»
  * @author Toni
  */
 public class ComputerModule {

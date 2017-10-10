@@ -1,7 +1,7 @@
 package com.design.demo.interfaceinsulate;
 
 /**
- * ÆÕÍ¨ÊÖ»ú½Ó¿Ú
+ * æ™®é€šæ‰‹æœºæ¥å£
  * @author Toni
  *
  */

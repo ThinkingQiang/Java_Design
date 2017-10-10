@@ -1,16 +1,16 @@
 package com.design.demo.dmt;
 
 /**
- * ²âÊÔÀà
+ * æµ‹è¯•ç±»
  * @author Toni
  */
 public class Test {
 
 	public static void main(String[] args) {
 		
-		//ÆÕÍ¨×é×°µçÄÔ¹ı³Ì
+		//æ™®é€šç»„è£…ç”µè„‘è¿‡ç¨‹
 		ComputerModule module1=new ComputerModule("i7-7700", "GTX-1080","inter", "simple");
-		System.out.println("¿ªÊ¼diyµçÄÔ1£¬¹ı³ÌÈçÏÂ£º");
+		System.out.println("å¼€å§‹diyç”µè„‘1ï¼Œè¿‡ç¨‹å¦‚ä¸‹ï¼š");
 		DiyComputer diy1=new DiyComputer();
 		diy1.setModule(module1);
 		diy1.addCpu();
@@ -19,11 +19,11 @@ public class Test {
 		diy1.addProcessor();
 		diy1.printComputerInfo();
 		
-		System.out.println("----------------------·Ö¸îÏß-------------------");
+		System.out.println("----------------------åˆ†å‰²çº¿-------------------");
 		
-		//×ñÑ­µÏÃ×ÌØÔ­ÔòDIYµçÄÔ
+		//éµå¾ªè¿ªç±³ç‰¹åŸåˆ™DIYç”µè„‘
 		ComputerModule module2=new ComputerModule("i7-8000", "GTX-1080ti","inter", "super");
-		System.out.println("¿ªÊ¼diyµçÄÔ2£¬¹ı³ÌÈçÏÂ£º");
+		System.out.println("å¼€å§‹diyç”µè„‘2ï¼Œè¿‡ç¨‹å¦‚ä¸‹ï¼š");
 		DiyComputer2 diy2=new DiyComputer2(module2);
 		diy2.startDiy();
 		

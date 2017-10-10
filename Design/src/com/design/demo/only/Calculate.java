@@ -4,7 +4,7 @@ import java.io.BufferedReader;
 import java.io.File;
 import java.io.FileReader;
 /**
- * ¼ÆËãÀà
+ * è®¡ç®—ç±»
  * @author Toni
  */
 public class Calculate {

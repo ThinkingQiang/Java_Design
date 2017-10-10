@@ -5,7 +5,7 @@ public class Test2 {
 	
 	public static void main(String[] args) {
 		
-		String filePath="e:\\num.txt"; //ÎÄ¼şÂ·¾¶¸ù¾İÊµ¼ÊÇé¿ö¶¨£¬ÎÄ¼şÄÚÈİÎªnum1ºÍnum2µÄÖµ
+		String filePath="e:\\num.txt"; //æ–‡ä»¶è·¯å¾„æ ¹æ®å®é™…æƒ…å†µå®šï¼Œæ–‡ä»¶å†…å®¹ä¸ºnum1å’Œnum2çš„å€¼
 		
 		FileRead read=new FileRead();
 		read.getNumValue(filePath);

@@ -1,7 +1,7 @@
 package com.design.demo.only;
 
 /**
- * ¼ÆËãÀà2
+ * è®¡ç®—ç±»2
  * @author Toni
  */
 public class Calculate2 {

@@ -14,7 +14,7 @@ public class Test {
 		
 		System.out.println("result:"+result);
 		
-		//同样可以使用其他的实现类，比如使用DbRead类，具体getNum()方法没有实现
+		//鍚屾牱鍙互浣跨敤鍏朵粬鐨勫疄鐜扮被锛屾瘮濡備娇鐢―bRead绫伙紝鍏蜂綋getNum()鏂规硶娌℃湁瀹炵幇
 		DbRead dbRead=new DbRead();
 		
 		dbRead.getNum(null);

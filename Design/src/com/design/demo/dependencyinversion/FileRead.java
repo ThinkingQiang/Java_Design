@@ -6,7 +6,7 @@ import java.io.FileReader;
 
 
 /**
- * ÎÄ¼ş¶ÁÈ¡Àà
+ * æ–‡ä»¶è¯»å–ç±»
  * @author Toni
  */
 public class FileRead implements Reader{

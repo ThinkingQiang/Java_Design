@@ -2,7 +2,7 @@ package com.design.demo.dependencyinversion;
 
 
 /**
- * Êı¾İ¿â¶ÁÈ¡Àà
+ * æ•°æ®åº“è¯»å–ç±»
  * @author Toni
  */
 public class DbRead implements Reader {
@@ -13,7 +13,7 @@ public class DbRead implements Reader {
 	
 	@Override
 	public void getNum(Object o) {
-		//Êı¾İ¿â¶ÁÈ¡Êı¾İ
+		//æ•°æ®åº“è¯»å–æ•°æ®
 	}
 
 

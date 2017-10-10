@@ -4,7 +4,7 @@ public class TuesdayWork implements WorkDay {
 
 	@Override
 	public void doWork() {
-		System.out.println("ÖÜ¶şÌ¸ĞèÇó");
+		System.out.println("å‘¨äºŒè°ˆéœ€æ±‚");
 	}
 
 }

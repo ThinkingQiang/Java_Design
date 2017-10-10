@@ -1,7 +1,7 @@
 package com.design.demo.interfaceinsulate;
 
 /**
- * ²âÊÔÀà
+ * æµ‹è¯•ç±»
  * @author Toni
  */
 public class Test {
